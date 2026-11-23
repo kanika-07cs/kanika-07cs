@@ -16,12 +16,14 @@
   <a href="https://github.com/kanika-07cs">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="[LEETCODE_URL](https://leetcode.com/u/Kanika_AB/)">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-
 - 🎓 Pursuing B.E. Computer Science and Engineering (2024–2028).
 - 🤖 Passionate about Artificial Intelligence and Machine Learning.
 - 💻 Interested in Full Stack Development and Software Engineering.
@@ -33,7 +35,6 @@
 ---
 
 ## 🛠️ Technical Skills
-
 ### Programming Languages
 
 <p>
@@ -52,8 +53,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb" />
 </p>
 
-### AI / Machine Learning & Deep Learning
-
+### AI
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
@@ -78,7 +78,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Technologies |
 |---|---|---|
 | **Face Emotion Recognition** | CNN-based facial expression classification system recognizing seven emotion categories | Python, CNN, OpenCV |
@@ -89,7 +88,6 @@
 ---
 
 ## 🏆 Achievements & Certifications
-
 - 🏅 Oracle Cloud Infrastructure – Foundations Associate.
 - 📜 NPTEL – Large Language Models (Elite Certificate).
 - ☕ NPTEL – Programming in Java (Elite Certificate).
@@ -101,7 +99,6 @@
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanika-07cs&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanika-07cs&layout=compact&theme=tokyonight&hide_border=true" />
@@ -117,4 +114,3 @@
   <i>"Building today, innovating tomorrow."</i>
 </p>
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
